@@ -19,6 +19,7 @@ This is my starter repository for my mobile friendly projects. It includes an ht
 2. Add  a hero image
 3. Add a footer
 
+
 ## Style Guide 
 
 - [ ] CSS
